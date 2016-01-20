@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class JumpMan : MonoBehaviour {
-
+	// yup
 	//  set the what direction JumpMan face.
 	 public bool JumpManFaceRight= false;
 	public bool gothammerpowerup = false;
